@@ -1,0 +1,12 @@
+#remove {
+  margin-left: 0.5rem;
+  border-radius: 50%;
+  border: none;
+  color: white;
+  background-color: red;
+  font-size: 0.6rem;
+}
+
+.checked {
+  text-decoration: line-through;
+}
